@@ -1,5 +1,5 @@
 
-Hi! I'm Sach, a sophomore at the University of Texas at Dallas pursuing a Bachelor's degree in Computer Science (Class of 2028, 3.7 GPA). I'm a cloud engineering intern at Verizon and Director of Technology at Kappa Theta Pi, building scalable backend systems and learning distributed architecture.
+Hi! I'm Sachin, a sophomore at the University of Texas at Dallas pursuing a Bachelor's degree in Computer Science (Class of 2028, 3.7 GPA). I'm a cloud engineering intern at Verizon and Director of Technology at Kappa Theta Pi, building scalable backend systems and learning distributed architecture.
 
 I'm currently grinding LeetCode for JPMC Code for Good and preparing for competitive SWE internships at top firms.
 
