@@ -1,5 +1,5 @@
 
-Hi! I'm Sachin, a sophomore at the University of Texas at Dallas pursuing a Bachelor's degree in Computer Science (Class of 2028, 3.7 GPA). I'm a cloud engineering intern at Verizon and Director of Technology at Kappa Theta Pi, building scalable backend systems and learning distributed architecture.
+Hi! I'm Sachin, a sophomore at the University of Texas at Dallas pursuing a Bachelor's degree in Computer Science (Class of 2028, 3.7 GPA). I'm a cloud engineering intern at Verizon and Director of Technology at Kappa Theta Pi, building scalable backend systems and learning distributed architecture. 
 
 - 🌍 Based in Irving/DFW, TX
 - 💼 Returning Cloud Engineering Intern @ Verizon (Summer 2026)
@@ -7,6 +7,7 @@ Hi! I'm Sachin, a sophomore at the University of Texas at Dallas pursuing a Bach
 - 📱 Built Snapback Sports iOS app (#23 on App Store, 22K downloads, 13K MAUs)
 - 💻 See my LeetCode progress at [github.com/sachins248/leetcode](https://github.com/sachins248/leetcode)
 - ⚡ I love building backend systems with Java/Spring Boot
+- 🏆 Named a Wayup X Yello 2025 Top 100 Intern Nationwide
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
